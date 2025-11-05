@@ -1,6 +1,6 @@
 # 💬 AI Health Chatbot 🤖🩺
 
-An intelligent healthcare chatbot that uses **Natural Language Processing (NLP)** and **Machine Learning** to provide users with symptom-based guidance, basic health advice, and relevant information — helping users get quick and reliable responses to common medical queries.
+An intelligent healthcare chatbot that uses **Natural Language Processing (NLP)** and **Machine Learning** to provide users with symptom-based guidance, basic health advice, and relevant information helping users get quick and reliable responses to common medical queries.
 
 ---
 
@@ -97,5 +97,3 @@ streamlit run app.py
 **Soundarya G M**
 🎓 B.Tech in Artificial Intelligence and Machine Learning
 🏫 Srinivas University Institute of Engineering and Technology
-
-> “Nothing feels better in this world.” 💫
